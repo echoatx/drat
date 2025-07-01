@@ -1,8 +1,11 @@
-Package: drat
-Version: 0.1.8
-Depends: R (>= 3.2.0)
-Imports: utils
-Suggests: git2r, knitr, rmarkdown
-License: GPL (>= 2)
-MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
+Package: ECHO
+Version: 0.10.9
+Depends: R (>= 4.1.0), encryptr, fs, magrittr, readxl, tidyverse
+Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs,
+         here, httr2, lifecycle, lubridate, methods, magrittr, openssl, openxlsx,
+         purrr, readr, readxl, rlang, stats, stringi, stringr, tibble, tictoc,
+         tidyr, tidyselect, utils, methods
+Suggests: forcats, glue, janitor, knitr, R6, rmarkdown, rstudioapi, testthat (>=
+         3.0.0)
+MD5sum: 07f9a9b5b3930656f3bca153993c864b
 NeedsCompilation: no
