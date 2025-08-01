@@ -1,9 +1,9 @@
 Package: ECHO
 Version: 0.10.9
 Depends: R (>= 4.1.0), encryptr, fs, magrittr, readxl, tidyverse
-Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, here, httr2,
-          lifecycle, lubridate, methods, magrittr, openssl, openxlsx, purrr, readr, readxl,
-          rlang, stats, stringi, stringr, tibble, tictoc, tidyr, tidyselect, utils, methods
+Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, here, httr2, lifecycle,
+           lubridate, methods, magrittr, openssl, openxlsx, purrr, readr, readxl, rlang, stats, stringi,
+           stringr, tibble, tictoc, tidyr, tidyselect, utils, methods
 Suggests: forcats, glue, janitor, knitr, R6, rmarkdown, rstudioapi, testthat (>= 3.0.0)
 MD5sum: 07f9a9b5b3930656f3bca153993c864b
 NeedsCompilation: no
@@ -11,10 +11,9 @@ NeedsCompilation: no
 Package: ECHO
 Version: 0.11.0
 Depends: R (>= 4.1.0), encryptr, fs, magrittr, readxl, tidyverse
-Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, here, httr2,
-          lifecycle, lubridate, methods, magrittr, openssl, openxlsx, purrr, readr, readxl,
-          rlang, stats, stringi, stringr, tibble, tictoc, tidyr, tidyselect, utils, methods,
-          glue
+Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, here, httr2, lifecycle,
+           lubridate, methods, magrittr, openssl, openxlsx, purrr, readr, readxl, rlang, stats, stringi,
+           stringr, tibble, tictoc, tidyr, tidyselect, utils, methods, glue
 Suggests: forcats, janitor, knitr, R6, rmarkdown, rstudioapi, testthat (>= 3.0.0)
 MD5sum: 8148a02f190cab403862051f3a1e7cc8
 NeedsCompilation: no
@@ -22,10 +21,9 @@ NeedsCompilation: no
 Package: ECHO
 Version: 0.12.0
 Depends: R (>= 4.1.0), encryptr, fs, magrittr, readxl, tidyverse
-Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, here, httr2,
-          lifecycle, lubridate, methods, magrittr, openssl, openxlsx, purrr, readr, readxl,
-          rlang, stats, stringi, stringr, tibble, tictoc, tidyr, tidyselect, utils, methods,
-          glue
+Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, here, httr2, lifecycle,
+           lubridate, methods, magrittr, openssl, openxlsx, purrr, readr, readxl, rlang, stats, stringi,
+           stringr, tibble, tictoc, tidyr, tidyselect, utils, methods, glue
 Suggests: forcats, janitor, knitr, R6, rmarkdown, rstudioapi, testthat (>= 3.0.0)
 MD5sum: 1da22453ca37f524b668ef768b9bebcc
 NeedsCompilation: no
@@ -33,10 +31,19 @@ NeedsCompilation: no
 Package: ECHO
 Version: 0.13.0
 Depends: R (>= 4.1.0), encryptr, fs, magrittr, readxl, tidyverse
-Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, here, httr2,
-          lifecycle, lubridate, methods, magrittr, openssl, openxlsx, purrr, readr, readxl,
-          rlang, stats, stringi, stringr, tibble, tictoc, tidyr, tidyselect, utils, methods,
-          glue
+Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, here, httr2, lifecycle,
+           lubridate, methods, magrittr, openssl, openxlsx, purrr, readr, readxl, rlang, stats, stringi,
+           stringr, tibble, tictoc, tidyr, tidyselect, utils, methods, glue
 Suggests: forcats, janitor, knitr, R6, rmarkdown, rstudioapi, testthat (>= 3.0.0)
 MD5sum: 29ec11d8a9ada0990dbe38c914caa869
+NeedsCompilation: no
+
+Package: ECHO
+Version: 0.14.0
+Depends: R (>= 4.1.0), encryptr, fs, magrittr, readxl, tidyverse
+Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, here, httr2, lifecycle,
+           lubridate, methods, magrittr, openssl, openxlsx, purrr, readr, readxl, rlang, stats, stringi,
+           stringr, tibble, tictoc, tidyr, tidyselect, utils, methods, glue
+Suggests: forcats, janitor, knitr, R6, rmarkdown, rstudioapi, testthat (>= 3.0.0)
+MD5sum: ffa3a8565e90ed59a1d2cc09598d6315
 NeedsCompilation: no
