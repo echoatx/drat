@@ -57,3 +57,13 @@ Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, 
 Suggests: forcats, janitor, knitr, R6, rmarkdown, rstudioapi, testthat (>= 3.0.0)
 MD5sum: 964f5e428a41e19a2f64883f46c4e237
 NeedsCompilation: no
+
+Package: ECHO
+Version: 0.16.1
+Depends: R (>= 4.1.0), encryptr, fs, magrittr, readxl, tidyverse
+Imports: cli, conflicted, DescTools, dplyr (>= 1.1.1), DescTools, encryptr, fs, here, httr2, lifecycle,
+           lubridate, methods, magrittr, openssl, openxlsx, purrr, readr, readxl, rlang, stats, stringi,
+           stringr, tibble, tictoc, tidyr, tidyselect, utils, methods, glue
+Suggests: forcats, janitor, knitr, R6, rmarkdown, rstudioapi, testthat (>= 3.0.0)
+MD5sum: 62281bba02d775432a9b91d298d0c8cb
+NeedsCompilation: no
