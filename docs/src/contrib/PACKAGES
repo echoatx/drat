@@ -1,9 +1,9 @@
 Package: dingie
 Version: 0.0.0.9000
 Depends: R (>= 4.2.0)
-Imports: cli, dplyr, fs, lubridate, readr, readxl, stringr
+Imports: cli, dplyr, fs, lubridate, readr, readxl
 License: MIT + file LICENSE
-MD5sum: 99a1962a21dc77e3625574119c92bbe7
+MD5sum: 4c4e4085e6999ffb1c63982545de712d
 NeedsCompilation: no
 
 Package: ECHO
