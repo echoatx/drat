@@ -27,7 +27,7 @@ Version: 0.0.0.9003
 Depends: R (>= 4.2.0)
 Imports: cli, dplyr, fs, lubridate, readr, readxl
 License: MIT + file LICENSE
-MD5sum: beaa0dab3e48d781926c8f289e885e40
+MD5sum: e8f0880c504e66dd8b7e5c9236143789
 NeedsCompilation: no
 
 Package: ECHO
