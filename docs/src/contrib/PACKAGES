@@ -38,6 +38,14 @@ License: MIT + file LICENSE
 MD5sum: 1bf2b0866a0aaf11c0bd0a36c2b6d4b8
 NeedsCompilation: no
 
+Package: dingie
+Version: 0.0.1.9100
+Depends: R (>= 4.2.0)
+Imports: cli, dplyr, fs, lubridate, readr, readxl
+License: MIT + file LICENSE
+MD5sum: 227a04d7ddfe83b8d181d62a582f538b
+NeedsCompilation: no
+
 Package: ECHO
 Version: 0.10.9
 Depends: R (>= 4.1.0), encryptr, fs, magrittr, readxl, tidyverse
